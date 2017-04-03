@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("new feature1\n");
     return 0;
 }
 
